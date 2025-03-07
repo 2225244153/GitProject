@@ -10,10 +10,6 @@ require "UnLua"
 ---@type BT_MoveLocation_C
 local BT_MoveLocation = Class()
 
-package.cpath = package.cpath .. ';C:/Users/Administrator/AppData/Roaming/JetBrains/Rider2024.3/plugins/EmmyLua/debugger/emmy/windows/x64/?.dll'
-local dbg = require('emmy_core')
-dbg.tcpConnect('localhost', 9966)
-
 --需要主动调用 self:FinishExecute(bSuccess)或者self:FinishAbort()
 
  function BT_MoveLocation:ReceiveExecuteAI(OwnerController, ControlledPawn)
