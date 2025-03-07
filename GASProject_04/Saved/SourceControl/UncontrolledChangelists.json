@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/BaiduSyncdisk/GASProject_04/Content/A_Game/GAS/GA_Hit.uasset",
+				"D:/BaiduSyncdisk/GASProject_04/Content/A_Game/GAS/GE_Hit.uasset",
+				"D:/BaiduSyncdisk/GASProject_04/Content/A_Game/Blueprints/Character/BP_BaseCharacter.uasset",
+				"D:/BaiduSyncdisk/GASProject_04/Content/A_Game/Blueprints/Character/CharacterChild/BP_Player.uasset",
+				"D:/BaiduSyncdisk/GASProject_04/Content/PunchPack/Mesh/UE4_Mannequin_Skeleton.uasset",
+				"D:/BaiduSyncdisk/GASProject_04/Content/A_Game/GAS/GA_Attack.uasset",
+				"D:/BaiduSyncdisk/GASProject_04/Content/A_Game/Animation/Player/AM_Attack.uasset",
+				"D:/UnrealProject/GASProject_04/Content/A_Game/Blueprints/Character/BP_BaseCharacter.uasset",
+				"D:/UnrealProject/GASProject_04/Content/A_Game/Blueprints/Character/BP_Enemy.uasset",
+				"D:/UnrealProject/GASProject_04/Content/A_Game/Blueprints/Character/CharacterChild/BP_Enemy.uasset",
+				"D:/UnrealProject/GASProject_04/Content/A_Game/Blueprints/Character/CharacterChild/BP_Player.uasset",
+				"D:/UnrealProject/GASProject_04/Content/A_Game/Animation/Player/ABP_Player.uasset",
+				"D:/UnrealProject/GASProject_04/Content/A_Game/Animation/Enemy/ABP_Enemy.uasset",
+				"D:/UnrealProject/GASProject_04/Content/A_Game/Gameworks/BP_GameMode.uasset",
+				"D:/UnrealProject/GASProject_04/Content/A_Game/Gameworks/BP_PlayerController.uasset",
+				"D:/UnrealProject/GASProject_04/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/UnrealProject/GASProject_04/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/6Z/MN0SRPZF92LK3K6DQXI942.uasset",
+				"D:/UnrealProject/GASProject_04/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_pose.uasset",
+				"D:/UnrealProject/GASProject_04/Content/A_Game/Animation/Player/AM_Attack.uasset",
+				"D:/UnrealProject/GASProject_04/Content/A_Game/GAS/GA_Attack.uasset",
+				"D:/UnrealProject/GASProject_04/Content/A_Game/Animation/Anima/IR_Other.uasset",
+				"D:/UnrealProject/GASProject_04/Content/A_Game/Animation/Anima/IR_Player.uasset",
+				"D:/UnrealProject/GASProject_04/Content/A_Game/GAS/GE_Hit.uasset",
+				"D:/UnrealProject/GASProject_04/Content/A_Game/Animation/Player/AM_Hit.uasset",
+				"D:/UnrealProject/GASProject_04/Content/A_Game/GAS/GA_Hit.uasset"
+			]
+		}
+	]
+}

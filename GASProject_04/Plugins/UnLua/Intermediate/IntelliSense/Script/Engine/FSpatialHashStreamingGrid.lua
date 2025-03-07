@@ -1,0 +1,13 @@
+---Represents a PIE/Game streaming grid
+---@class FSpatialHashStreamingGrid
+---@field public GridName string
+---@field public Origin FVector
+---@field public CellSize integer
+---@field public LoadingRange number
+---@field public bBlockOnSlowStreaming boolean
+---@field public DebugColor FLinearColor
+---@field public GridLevels TArray<FSpatialHashStreamingGridLevel>
+---@field public WorldBounds FBox
+---@field public bClientOnlyVisible boolean
+---@field public HLODLayer UHLODLayer
+local FSpatialHashStreamingGrid = {}

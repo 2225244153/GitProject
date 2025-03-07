@@ -1,0 +1,16 @@
+{
+	"SourceFiles": [
+		"D:\\BaiduSyncdisk\\GASProject_04\\Source\\GASProject_04\\GASProject_04.Build.cs",
+		"D:\\BaiduSyncdisk\\GASProject_04\\Plugins\\UnLuaExtensions\\LuaProtobuf\\Source\\LuaProtobuf.Build.cs",
+		"D:\\BaiduSyncdisk\\GASProject_04\\Plugins\\UnLuaExtensions\\LuaRapidjson\\Source\\LuaRapidjson.Build.cs",
+		"D:\\BaiduSyncdisk\\GASProject_04\\Plugins\\UnLuaExtensions\\LuaSocket\\Source\\LuaSocket.Build.cs",
+		"D:\\BaiduSyncdisk\\GASProject_04\\Plugins\\UnLuaTestSuite\\Source\\UnLuaTestSuite\\UnLuaTestSuite.Build.cs",
+		"D:\\BaiduSyncdisk\\GASProject_04\\Plugins\\UnLua\\Source\\ThirdParty\\Lua\\Lua.Build.cs",
+		"D:\\BaiduSyncdisk\\GASProject_04\\Plugins\\UnLua\\Source\\UnLuaDefaultParamCollector\\UnLuaDefaultParamCollector.Build.cs",
+		"D:\\BaiduSyncdisk\\GASProject_04\\Plugins\\UnLua\\Source\\UnLuaEditor\\UnLuaEditor.Build.cs",
+		"D:\\BaiduSyncdisk\\GASProject_04\\Plugins\\UnLua\\Source\\UnLua\\UnLua.Build.cs",
+		"D:\\BaiduSyncdisk\\GASProject_04\\Source\\GASProject_04.Target.cs",
+		"D:\\BaiduSyncdisk\\GASProject_04\\Source\\GASProject_04Editor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

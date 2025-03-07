@@ -1,0 +1,17 @@
+---@class UDiscardedMemoryClassTemplate_4 : URigVMMemoryStorage
+---@field public FunctionLibrary___FootTrace_Entry_Ik_Foot_Bone FRigElementKey @Name FunctionLibrary___FootTrace_Entry_Ik_Foot_Bone CPPType FRigElementKey
+---@field public FunctionLibrary___FootTrace_Return_Offset FVector @Name FunctionLibrary___FootTrace_Return_Offset CPPType FVector
+---@field public FunctionLibrary___FootTrace_MathVectorAdd_Result FVector @Name FunctionLibrary___FootTrace_MathVectorAdd_Result CPPType FVector
+---@field public FunctionLibrary___FootTrace_GetTransform_Transform FTransform @Name FunctionLibrary___FootTrace_GetTransform_Transform CPPType FTransform
+---@field public FunctionLibrary___FootTrace_GetTransform_CachedIndex TArray<FCachedRigElement> @Name FunctionLibrary___FootTrace_GetTransform_CachedIndex CPPType TArray<FCachedRigElement>
+---@field public FunctionLibrary___FootTrace_MathFloatAdd_Result number @Name FunctionLibrary___FootTrace_MathFloatAdd_Result CPPType float
+---@field public FunctionLibrary___FootTrace_MathFloatAdd_A number @Name FunctionLibrary___FootTrace_MathFloatAdd_A CPPType float
+---@field public FunctionLibrary___FootTrace_GetTransform_1_Transform FTransform @Name FunctionLibrary___FootTrace_GetTransform_1_Transform CPPType FTransform
+---@field public FunctionLibrary___FootTrace_GetTransform_1_CachedIndex TArray<FCachedRigElement> @Name FunctionLibrary___FootTrace_GetTransform_1_CachedIndex CPPType TArray<FCachedRigElement>
+---@field public FunctionLibrary___FootTrace_MathVectorAdd_A__IO FVector @Name FunctionLibrary___FootTrace_MathVectorAdd_A__IO CPPType FVector
+---@field public FunctionLibrary___FootTrace_MathVectorSub_Result FVector @Name FunctionLibrary___FootTrace_MathVectorSub_Result CPPType FVector
+---@field public FunctionLibrary___FootTrace_MathVectorSub_A__IO FVector @Name FunctionLibrary___FootTrace_MathVectorSub_A__IO CPPType FVector
+---@field public FunctionLibrary___FootTrace_SphereTraceByTraceChannel_bHit boolean @Name FunctionLibrary___FootTrace_SphereTraceByTraceChannel_bHit CPPType bool
+---@field public FunctionLibrary___FootTrace_SphereTraceByTraceChannel_HitNormal FVector @Name FunctionLibrary___FootTrace_SphereTraceByTraceChannel_HitNormal CPPType FVector
+local UDiscardedMemoryClassTemplate_4 = {}
+

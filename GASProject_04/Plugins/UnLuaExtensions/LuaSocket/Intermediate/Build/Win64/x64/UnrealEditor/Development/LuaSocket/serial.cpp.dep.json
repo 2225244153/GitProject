@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\baidusyncdisk\\gasproject_04\\plugins\\unluaextensions\\luasocket\\source\\src\\serial.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\baidusyncdisk\\gasproject_04\\intermediate\\build\\win64\\x64\\gasproject_04editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\baidusyncdisk\\gasproject_04\\plugins\\unluaextensions\\luasocket\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\luasocket\\definitions.luasocket.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

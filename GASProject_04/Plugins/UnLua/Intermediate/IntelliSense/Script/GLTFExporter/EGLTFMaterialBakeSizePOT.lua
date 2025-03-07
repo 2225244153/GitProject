@@ -1,0 +1,17 @@
+---@class EGLTFMaterialBakeSizePOT
+---@field public POT_1 integer
+---@field public POT_2 integer
+---@field public POT_4 integer
+---@field public POT_8 integer
+---@field public POT_16 integer
+---@field public POT_32 integer
+---@field public POT_64 integer
+---@field public POT_128 integer
+---@field public POT_256 integer
+---@field public POT_512 integer
+---@field public POT_1024 integer
+---@field public POT_2048 integer
+---@field public POT_4096 integer
+---@field public POT_8192 integer
+---@field public POT_MAX integer
+local EGLTFMaterialBakeSizePOT = {}
