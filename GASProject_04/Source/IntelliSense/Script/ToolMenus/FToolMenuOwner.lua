@@ -1,2 +1,0 @@
----@class FToolMenuOwner
-local FToolMenuOwner = {}

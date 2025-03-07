@@ -1,2 +1,0 @@
----@class FAutomationWorkerStopTests
-local FAutomationWorkerStopTests = {}

@@ -1,2 +1,0 @@
----@class FAutomationWorkerPong
-local FAutomationWorkerPong = {}

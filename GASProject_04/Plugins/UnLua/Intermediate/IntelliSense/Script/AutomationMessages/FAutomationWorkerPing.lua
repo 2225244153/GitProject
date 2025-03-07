@@ -1,2 +1,0 @@
----@class FAutomationWorkerPing
-local FAutomationWorkerPing = {}

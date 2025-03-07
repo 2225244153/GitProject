@@ -1,2 +1,0 @@
----@class FInjectedInputArray
-local FInjectedInputArray = {}

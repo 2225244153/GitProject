@@ -1,3 +1,0 @@
----@class UMetasoundGeneratorHandle_OnOutputValueChangedMulticast__PythonCallable : UPythonCallableForDelegate
-local UMetasoundGeneratorHandle_OnOutputValueChangedMulticast__PythonCallable = {}
-
