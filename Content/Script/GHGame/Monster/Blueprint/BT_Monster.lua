@@ -4,10 +4,15 @@
 -- @COMPANY **
 -- @AUTHOR **
 -- @DATE ${date} ${time}
---
+-- 
 
 ---@type BP_Monster_C
 local M = UnLua.Class()
+
+package.cpath = package.cpath .. ';C:/Users/Administrator/AppData/Roaming/JetBrains/Rider2024.3/plugins/EmmyLua/debugger/emmy/windows/x64/?.dll'
+local dbg = require('emmy_core')
+dbg.tcpConnect('localhost', 9966)
+
 
 -- function M:Initialize(Initializer)
 -- end
@@ -15,9 +20,9 @@ local M = UnLua.Class()
 -- function M:UserConstructionScript()
 -- end
 
---[[function M:ReceiveBeginPlay()
-   
-end]]
+function M:ReceiveBeginPlay()
+   self:GetParentActor():ReceiveBeginPlay()
+end
 
 --[[function M:OnComponentActivated()
     
